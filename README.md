@@ -6,7 +6,9 @@ This game was created as my final project for my Grade 12 Computer Science cours
 There are many factors that go into a customer's decision to purchase. I used gaussian distributions to effectively simulate the spending habits and preferences of customers based on a number of factors including the reputation of the shop, conditions, temperature, recipe etc. Using customer feedback, players can adjust their recipe and pricing to improve their reputation, all while ensuring they do not run out of money and stock.
 
 # Instructions for Use
-1. Open project using Netbeans IDE
+1. Open the BubbleTeaGame folder
+2. Open the Java application (PNG and highscore.txt must be present in the same folder for the application to work properly)
+3. Check out the source package in src>bubbleteagame to read my code!
 2. Have fun!
 
 *Try and see if you can beat the highscore!*
