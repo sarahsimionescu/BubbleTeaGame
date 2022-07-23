@@ -7,7 +7,7 @@ There are many factors that go into a customer's decision to purchase. I used ga
 
 # Instructions for Use
 1. Open the BubbleTeaGame folder
-2. Open the Java application (PNG and highscore.txt must be present in the same folder for the application to work properly)
+2. Run BubbleTeaGame.jar (PNG and highscore.txt must be present in the same folder for the application to work properly)
 3. Check out the source package in src>bubbleteagame to read my code!
 2. Have fun!
 
